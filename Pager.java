@@ -1,3 +1,8 @@
+/*
+ * Author: Kimler Corey
+ * CMSC 412
+ * 
+ */
 package simulator;
 
 import java.util.ArrayList;
