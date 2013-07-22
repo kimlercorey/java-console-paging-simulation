@@ -1,9 +1,14 @@
+/*
+ * Author: Kimler Corey
+ * 
+ */
 package simulator;
 
 /**
  *
  * @author kimler (kc) Corey
  */
+
 
 
 public class Simulator {
@@ -67,5 +72,10 @@ public class Simulator {
     while (sel != 0);
     
     //String menu = "menu:\n";
+    
+    
     }  
+   
+
+    
 }
