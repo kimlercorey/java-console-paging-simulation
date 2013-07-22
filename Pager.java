@@ -1,6 +1,5 @@
 /*
  * Author: Kimler Corey
- * CMSC 412
  * 
  */
 package simulator;
